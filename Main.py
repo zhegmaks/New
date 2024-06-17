@@ -14,7 +14,7 @@ storage = MemoryStorage()
 class Form(StatesGroup):
     file_id = State()  
 
-API_TOKEN = '1058570779:AAHtRKeaOOwHUM07shygcc8m8gL6Gzx7H3k'  # Replace with your token
+API_TOKEN = ''  # Replace with your token
 PASSWORD = 'admin123'  
 
 bot = Bot(token=API_TOKEN)
